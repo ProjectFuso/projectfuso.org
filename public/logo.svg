@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none">
+  <path d="M 15 10 C 20 35, 40 45, 50 50 S 80 65, 85 90" stroke-width="7" stroke-linecap="square" stroke="#FF7900" fill="transparent" />
+  <path d="M 85 10 C 80 35, 60 45, 50 50 S 20 65, 15 90" stroke-width="7" stroke-linecap="square" stroke="#FF7900" fill="transparent" />
+  <path d="M 35 5 C 40 35, 40 35, 50 50 S 60 65, 65 95" stroke-width="7" stroke-linecap="square" stroke="#FF7900" fill="transparent" />
+  <path d="M 65 5 C 60 35, 60 35, 50 50 S 40 65, 35 95" stroke-width="7" stroke-linecap="square" stroke="#FF7900" fill="transparent" />
+</svg>
