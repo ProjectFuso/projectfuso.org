@@ -11,6 +11,8 @@ export const metadata: Metadata = {
     description: 'Modernized Operating System',
 }
 
+export const runtime = 'edge'
+
 const LogoExpanded: FC = () => {
     return (
         <div className="flex flex-row items-center p-36">
